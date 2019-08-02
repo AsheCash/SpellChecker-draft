@@ -1,5 +1,2 @@
 # SpellChecker-draft
-After reading online that LINQ is seen as essential to C# developers, I decided to edit my previous project to utilize the library. 
-Here is the project before utilizing LINQ. 
---I was given the task to build a spellchecker that would simply spit out misspelled words after checking dictionary.com. There are words  misspelled but counted as spelled correctly using the project requirements. 
-I was given the outline, and essentially filled in the meat of the project. 
+I was given this project as part of an interview. Please use NUnite3TestAdapter if you'd like to run the unit tests I created. https://www.nuget.org/packages/NUnit3TestAdapter/3.13.0
